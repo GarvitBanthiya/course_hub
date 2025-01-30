@@ -1,9 +1,15 @@
 
  # Course Catalog Web App📚
+ 
+![Screenshot 2025-01-30 183435](https://github.com/user-attachments/assets/33a07e02-4591-4e7c-bc55-91d6006d44ac)
 
  * This is a React-based Course Catalog web application that fetches and displays a list of courses.
  * It includes filtering options and utilizes Tailwind CSS for styling.
- 
+ * 
+ ![Screenshot 2025-01-30 183442](https://github.com/user-attachments/assets/d63ec586-5f03-46a9-8685-797c1b6728ec)
+
+![Screenshot 2025-01-30 183447](https://github.com/user-attachments/assets/c814e6a7-3b05-4b40-9b6e-0c3256efe405)
+
  ### Features
  - Fetches course data from an API.
  - Category-based filtering of courses.
